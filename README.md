@@ -1,22 +1,16 @@
-# RPS Arena 🎮
-### Rock • Paper • Scissors Web Game
+## Rock • Paper • Scissors Web Game🎮
 
-**RPS Arena** is a modern and interactive **Rock Paper Scissors** web application built using pure front-end technologies.  
+This is a modern and interactive **Rock Paper Scissors** web application built using pure front-end technologies.  
 It delivers a clean UI, smooth interactions, and an engaging gameplay experience directly in the browser.
 
 ## ✨ Features
 
-- 🎯 Classic Rock, Paper & Scissors gameplay
-  
-- 🤖 Computer-based opponent
-  
-- ⚡ Instant win/lose/draw results
-  
-- 📱 Fully responsive layout
-  
-- 🎨 Clean & minimal UI design
-  
-- 🧠 Randomized computer moves
+  - 🎯 Classic Rock, Paper & Scissors gameplay
+  - 🤖 Computer-based opponent
+  - ⚡ Instant win/lose/draw results
+  - 📱 Fully responsive layout
+  - 🎨 Clean & minimal UI design
+  - 🧠 Randomized computer moves
 
 ## 🎮 How to Play
 
@@ -37,7 +31,7 @@ It delivers a clean UI, smooth interactions, and an engaging gameplay experience
 ## 📂 Project Structure
 
 ```
-RPS-Arena/
+rock-paper-scissors/
 │
 ├── main.html
 ├── main.css
@@ -49,7 +43,7 @@ RPS-Arena/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Adarshtechy/RPS-Arena.git
+git clone https://github.com/Adarshtechy/rock-paper-scissors.git
 ```
 
 ### Run Locally
